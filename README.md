@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @God-FearingCoder01, formally known as Nkosikhona Mhlope
+- 👋 Hi there, I’m Chris Whyt, formally known as Nkosikhona Mhlope
 - 👀 I’m interested in solving whatever life's problem(s) with code (literlly)👩‍💻
 - 🌱 I’m currently learning Software Engineering at the **ALX Software Engineering** Program and also going through my undergraduate studies in Bsc Computer Science [NUST, Zimbabwe](https://www.nust.ac.zw/)
 - 💞️ I’m looking to collaborate on anything to do with coding a solution(s) to some real life problem, creation of softwares that have an impact on one's life✅💯.
